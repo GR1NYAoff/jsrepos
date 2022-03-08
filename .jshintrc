@@ -1,0 +1,29 @@
+{
+      "globals": {
+            "alert": false,
+            "prompt": false
+          },
+      "predef": ["$", "jQuery", "text", "$p", "window", "document", "console", "parent"],
+      "curly": true,
+      "eqeqeq": true,
+      "funcscope": true,
+      "futurehostile": true,
+      "latedef": true,
+      "nonbsp": true,
+      "notypeof": true,
+      "shadow": "outer",
+      "singleGroups": true,
+      "undef": true,
+      "unused": true,
+
+      "debug": true,
+      "scripturl": true,
+
+      "-W079": true,
+      "-W123": false,
+      "-W003": false,
+      "-W116": false,
+
+      "esversion": 6,
+      "node": true
+}
